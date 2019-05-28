@@ -1,6 +1,6 @@
 package basic;
 
-//bbbbb
+//bbb
 /**
 * 需求：
 * 银行有一个金库
