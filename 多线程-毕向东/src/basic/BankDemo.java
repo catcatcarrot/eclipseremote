@@ -1,10 +1,6 @@
 package basic;
 
-<<<<<<< HEAD
-//bbb
-=======
-//aaa
->>>>>>> branch 'master' of https://github.com/catcatcarrot/eclipseremote.git
+//bbb+aaa
 /**
 * 需求：
 * 银行有一个金库
